@@ -1,0 +1,16 @@
+pwd 
+ls = list
+mkdir = create directory
+touch = creat file
+cp = to copy
+rm = to delete file 
+cat = to read file 
+grep =
+find = to find file 
+chmod = to change file owner
+chown = to group modifive
+df = dowenlode tools
+du 
+ps
+top
+
