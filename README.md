@@ -1,2 +1,2 @@
-for pull and push practice
+for pull and push very practice
 for push
