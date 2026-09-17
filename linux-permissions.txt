@@ -1,0 +1,5 @@
+chmod = to change file permission
+chown = to change file owner
+umask = to change file umask number
+ls -l = to check file with permission
+
